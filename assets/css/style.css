@@ -279,7 +279,23 @@
     font-size: 17px;
   }
   /* TRAINER STYLES END */
+
+  /* SERVICE PLANS STYLES START */
+  .service-grid-container {
+    display: grid;
+  }
+
+  .service-grid-item {
+    width: 200px;
+    height: 50px;
+    background-color: orange;
+    border: solid;
+    color: black;
+  }
+
   
+  /* SERVICE PLANS STYLES END */
+
   /* REACH OUT STYLES START */
   .contact {
     background: #024e76;
